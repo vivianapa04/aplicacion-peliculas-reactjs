@@ -1,1 +1,1 @@
-# Aplicacion de busquedad de peliculas
+# Aplicacion de busqueda de peliculas
